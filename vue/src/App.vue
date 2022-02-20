@@ -5,9 +5,8 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-    <div class="text-red-500 text-2xl">Hello World</div>
+    <h1 class="text-3xl font-bold underline">Hello world!</h1>
 </template>
 
 <style>
-
 </style>
